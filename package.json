@@ -4,8 +4,14 @@
     "description": "A collection of SVG cryptocurrency icons to use in your react app",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "Carl Fairclough",
-    "license": "ISC"
-  }
+    "license": "ISC",
+    "dependencies": {
+        "react": "^17.0.1"
+    },
+    "devDependencies": {
+        "@types/react": "^17.0.2"
+    }
+}
