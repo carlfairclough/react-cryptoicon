@@ -3,7 +3,7 @@
 
 install package:
 ```bash
-npm i react-cryptoicons
+npm i react-cryptoicon
 ```
 
 Import icons like so:
