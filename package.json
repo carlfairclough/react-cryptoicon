@@ -1,9 +1,13 @@
 {
   "name": "react-cryptoicon",
   "author": "Carl Fairclough",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of SVG cryptocurrency icons to use in your react app",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carlfairclough/react-cryptoicon.git"
+  },
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
