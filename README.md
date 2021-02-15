@@ -1,6 +1,11 @@
 
 ## Usage:
 
+install package:
+```bash
+npm i react-cryptoicons
+```
+
 Import icons like so:
 ```jsx
 import { DAI } from `react-cryptoicon`
