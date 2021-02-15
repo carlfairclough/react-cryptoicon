@@ -8,7 +8,7 @@ import { DAI } from `react-cryptoicon`
 
 Calling the component:
 ```jsx
-<DAI color="pink" 
+<DAI color="pink" />
 ```
 
 ### Props:
@@ -33,3 +33,6 @@ export { ADA } from './svg/ada'
 
 ### Notes:
 Building takes a little while due to the number of individual imports.
+
+### Credit
+Icons have been taken from the following library: http://cryptoicons.co/ / https://github.com/spothq/cryptocurrency-icons
