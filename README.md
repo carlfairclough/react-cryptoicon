@@ -3,7 +3,7 @@
 
 Import icons like so:
 ```jsx
-import { DAI } from `react-cryptoicons`
+import { DAI } from `react-cryptoicon`
 ```
 
 Calling the component:
